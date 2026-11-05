@@ -1,5 +1,7 @@
-## Hi there 👋
-
+# gekkogeek here!
+- Cybersecurity | LINUX | Networking
+- Hands-on labs with Kali linux
+- Building toward a SOC analyst role 
 <!--
 **gekkogeek/gekkogeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
